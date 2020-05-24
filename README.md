@@ -10,7 +10,7 @@ Most programming languages/runtimes can be divided into 4 categories of speed.
 4. Slow
 
 All languages/runtimes in a given category will perform comparably to each other, while languages from another category will be an order of 
-magnitude faster or slower (with the exception of 2 and 3 which will operate comparably once the program is operating at full capacity).
+magnitude faster or slower (with the exception of `Fast` and `Fast (with caveats)` which will operate comparably once the program is operating at full capacity).
 
 ---
 
