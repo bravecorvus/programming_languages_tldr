@@ -26,3 +26,4 @@ magnitude faster or slower (with the exception of `Fast` and `Fast (with caveats
 ## Languages that do not fit this model
 1. Crystal [https://github.com/crystal-lang/crystal](https://github.com/crystal-lang/crystal): Ruby syntax, C speed. Very promising
 2. V-Lang [https://vlang.io/](https://vlang.io/): Go-like syntax, C speed.
+3. PHP: Terrible syntax, failure to correctly abstract away from the core C implementation, `Slow` language performance.
